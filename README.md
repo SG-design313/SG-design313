@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
+## Hi, I'm Shagufta Ghori 👋
+Lecturere in Surgical Technology
+Neuroscience Enthusiats | HRV and Stress Resaercher
+Interested in EEG, fMRI, and neurotech
+PAkistan
 **SG-design313/SG-design313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work
+I recently completed a study involving ** HRV ( Heart Rate Variabilty)** and **emotional intelligence**
+I'm applying to teh ** IBRO IBN Sina Neutotech Autmn School 2025**
+Excited to learn more about ** EEG**, ** fMRI**, and computational neurosciene.
+## Learnoing Goals
+Learn Python for basic signal processing
+Explore EEG toolboxes and HRV analysis in Python
+Share simple neuroscience workflows here soon!
